@@ -1,0 +1,12 @@
+{
+  "identifier": "__app__",
+  "description": "Capacidades básicas de la app Tauri",
+  "windows": ["*"],
+  "permissions": [
+    "core:default",
+    "core:app:default",
+    "core:event:default",
+    "core:window:default",
+    "core:webview:default"
+  ]
+}

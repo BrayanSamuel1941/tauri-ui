@@ -1,0 +1,12 @@
+{
+  "identifier": "default",
+  "description": "Capacidades de la ventana principal (sin opener)",
+  "windows": ["*"],
+  "permissions": [
+    "core:default",
+    "core:app:default",
+    "core:event:default",
+    "core:window:default",
+    "core:webview:default"
+  ]
+}
